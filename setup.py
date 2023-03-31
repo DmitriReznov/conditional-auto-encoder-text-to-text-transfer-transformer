@@ -33,7 +33,7 @@ setuptools.setup(
         "tensorflow_hub",
         "torchtext",
         "transformers==2.8.0",
-        "t5==0.5.0",
+        "t5>=0.5.0",
     ],
     entry_points={
         'console_scripts': [
